@@ -1,64 +1,59 @@
-<!-- Banner -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20Rupom!%20👋&fontSize=45&fontAlignY=35&animation=fadeIn)
-
-# 💫 About Me:
-💡 **| Web Developer | Digital Marketer | AI Enthusiast**  
-🚀 Passionate about building digital solutions & growing businesses online  
-📚 Currently learning **MERN Stack** & exploring **AI projects**  
-🌍 Based in **Bangladesh** | Open to global collaborations  
-✨ Motto: *“Turning ideas into reality with code & creativity.”*  
+<!-- Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Rupom!+👋;Full-Stack+Web+Developer+💻;Entrepreneur+🚀;Digital+Marketer+📊;AI+Enthusiast+🤖)](https://git.io/typing-svg)
 
 ---
 
-## 🚀 Tech Arsenal  
+## 💻 About Me (Terminal Style)
+```bash
+> whoami
+👨 Rupom | Entrepreneur | Developer | Marketer | AI Explorer
 
-**💻 Languages & Frameworks**  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
+> skills --current
+🌐 Web Dev (MERN, WordPress, Tailwind)  
+🤖 AI Tools for Web & Marketing  
+📊 Digital Strategy & Growth Hacking  
 
-**⚡ Tools & Platforms**  
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+> learning --now
+🚀 MERN Stack  
+⚡ AI-Powered Web Projects  
+📈 Marketing Automation
 
----
+🛠️ Tech Stack
 
-## 📊 GitHub Analytics  
+const techStack = {
+  languages: ["HTML", "CSS", "JavaScript"],
+  frameworks: ["React", "Node.js", "Express.js"],
+  database: ["MongoDB"],
+  tools: ["GitHub", "Firebase", "WordPress", "Tailwind CSS"],
+};
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamrupom07&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamrupom07&theme=tokyonight" alt="GitHub Streak" height="165"/>
-</p>  
+📊 GitHub Analytics
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=iamrupom07&show_icons=true&theme=merko" alt="GitHub Stats" height="165"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamrupom07&theme=merko" alt="GitHub Streak" height="165"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamrupom07&layout=compact&theme=merko" alt="Top Languages"/> </p>
+⚡ Fun Coding Extras
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamrupom07&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>  
+# quick script about me
+class Rupom:
+    def __init__(self):
+        self.name = "Rupom"
+        self.role = "Web Developer | Entrepreneur"
+        self.skills = ["MERN", "WordPress", "AI", "Marketing"]
 
----
+    def say_hi(self):
+        return "Thanks for visiting my GitHub! 🚀"
 
-## 🌐 Let’s Connect  
+me = Rupom()
+print(me.say_hi())
 
-<p align="center">
-  <a href="https://iamrupom.netlify.app/"><img src="https://img.shields.io/badge/🌍%20Portfolio-000?style=for-the-badge"></a>
-  <a href="https://www.linkedin.com/in/rupomsaidur"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://github.com/iamrupom07"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"></a>
-  <a href="https://x.com/"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter"></a>
-</p>  
+🌐 Connect with Me
+<p align="center"> <a href="https://iamrupom.netlify.app/"><img src="https://img.shields.io/badge/🌍%20Portfolio-000?style=for-the-badge"></a> <a href="https://www.linkedin.com/in/rupomsaidur"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://github.com/iamrupom07"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"></a> <a href="https://x.com/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> </p> <!-- Matrix Rain Footer -->
 
----
-
-## 🎨 Fun Extras  
- 
-- ⚽ Hobbies: Football, Gaming, and Reading about Startups  
-- 🧩 Fact: I enjoy solving **real-world problems with code**  
 
 ---
 
-<!-- Footer -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+✨ What’s new here:  
+- **Typing SVG animation** at the top → shows your titles like a terminal typing.  
+- **Terminal-style “About Me” section** → feels like running bash commands.  
+- **JavaScript + Python code blocks** → adds real developer vibe.  
+- **Matrix-like footer** with closing tag style.  
+
+👉 Do you want me to also add a **real-time visitor counter + contribution graph heatmap** for e
