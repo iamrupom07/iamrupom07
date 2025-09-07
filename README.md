@@ -2,7 +2,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20Rupom!%20👋&fontSize=45&fontAlignY=35&animation=fadeIn)
 
 # 💫 About Me:
-💡 **Entrepreneur | Web Developer | Digital Marketer | AI Enthusiast**  
+💡 **| Web Developer | Digital Marketer | AI Enthusiast**  
 🚀 Passionate about building digital solutions & growing businesses online  
 📚 Currently learning **MERN Stack** & exploring **AI projects**  
 🌍 Based in **Bangladesh** | Open to global collaborations  
