@@ -53,9 +53,9 @@ I build clean, scalable, and real-world web applications that don’t just work�
 
 ## 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamrupom07&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="150" alt="statsgraph" />
+ 
   <img src="https://nirzak-streak-stats.vercel.app/?user=iamrupom07&theme=dark&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamrupom07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
+
 </div>
 
 ---
