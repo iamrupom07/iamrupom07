@@ -100,7 +100,7 @@ A full-stack platform where students can **search, apply, and track scholarships
 **Stack:** React · Node.js · Express · MongoDB · Firebase Auth
 
 [![Repo](https://img.shields.io/badge/View_Repo-0D1117?style=flat-square&logo=github&logoColor=white)](https://github.com/iamrupom07/ScholarStream-Client)
-[![Live](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=netlify&logoColor=white)]((https://schloarstream.web.app/))
+[![Live](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://schloarstream.web.app/)
 
 </td>
 <td width="50%" valign="top">
