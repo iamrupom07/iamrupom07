@@ -131,21 +131,23 @@ A responsive full-stack app to help users **build and maintain positive daily ha
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=iamrupom&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&ring_color=58A6FF" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamrupom&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&langs_count=8" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=iamrupom07&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+&nbsp;&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamrupom07&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=iamrupom&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" />
+<img src="https://nirzak-streak-stats.vercel.app?user=iamrupom07&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF" />
 
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamrupom&bg_color=0D1117&color=58A6FF&line=58A6FF&point=F78166&area=true&hide_border=true" width="95%"/>
-</div>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamrupom07&bg_color=0D1117&color=58A6FF&line=58A6FF&point=F78166&area=true&hide_border=true" width="95%"/>
+
+</div>
 ---
 
 ## 🎓 Education & Certifications
