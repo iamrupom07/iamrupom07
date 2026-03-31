@@ -139,7 +139,7 @@ A responsive full-stack app to help users **build and maintain positive daily ha
 
 <div align="center">
 
-<img src="https://nirzak-streak-stats.vercel.app?user=iamrupom07&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF" />
+<img src="https://streak-stats.demolab.com?user=iamrupom07&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF" />
 
 </div>
 
