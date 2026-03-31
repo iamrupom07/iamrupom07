@@ -175,7 +175,7 @@ Have something in mind? Let's talk.
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iamrupom)
 
 <br/>
-
+.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 <sub>Made with care by Rupom · Bangladesh 🇧🇩</sub>
