@@ -6,9 +6,10 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&lines=Building+scalable+web+applications+%F0%9F%9A%80;MERN+Stack+%7C+React+%7C+Next.js+%7C+Node.js;23%2B+Projects+%E2%80%A2+100%25+Success+Rate+%E2%80%A2+5.0+Rating;Open+to+Full-Time+Opportunities+%F0%9F%9F%A2)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2800&pause=1200&color=000000&center=true&vCenter=true&width=560&lines=Building+scalable+web+applications+%F0%9F%9A%80;MERN+Stack+%7C+React+%7C+Next.js+%7C+Node.js;23%2B+Projects+%E2%80%A2+100%25+Success+Rate+%E2%80%A2+5.0+Rating;Open+to+Full-Time+Opportunities+%F0%9F%9F%A2)](https://git.io/typing-svg)
 
 </div>
+
 
 <br/>
 
