@@ -1,8 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Md.%20Sidur%20Rahaman%20Rupom&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Full%20Stack%20Web%20Developer%20%7C%20MERN%20Stack%20Specialist&descAlignY=62&descSize=16&descColor=rgba(255,255,255,0.85)" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=Md.%20Sidur%20Rahaman%20Rupom&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Full%20Stack%20Web%20Developer%20%7C%20MERN%20Stack%20Specialist&descAlignY=62&descSize=16&descColor=rgba(255,255,255,255)" width="100%"/>
 
 </div>
+
+
+
 
 <div align="center">
 
