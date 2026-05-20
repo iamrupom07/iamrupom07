@@ -1,27 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=Md.%20Sidur%20Rahaman%20Rupom&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Full%20Stack%20Web%20Developer%20%7C%20MERN%20Stack%20Specialist&descAlignY=62&descSize=16&descColor=rgba(255,255,255,255)" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=Md.%20Sidur%20Rahaman%20Rupom&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Full%20Stack%20Web%20Developer%20%7C%20Modern%20Web%20Specialist&descAlignY=62&descSize=16&descColor=rgba(255,255,255,0.8)" width="100%"/>
 
 </div>
-
-
-
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2800&pause=1200&color=000000&center=true&vCenter=true&width=560&lines=Building+scalable+web+applications+%F0%9F%9A%80;MERN+Stack+%7C+React+%7C+Next.js+%7C+Node.js;23%2B+Projects+%E2%80%A2+100%25+Success+Rate+%E2%80%A2+5.0+Rating;Open+to+Full-Time+Opportunities+%F0%9F%9F%A2)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2800&pause=1200&color=A9A9A9&center=true&vCenter=true&width=560&lines=Building+scalable,+futuristic+web+apps+%F0%9F%9A%80;TypeScript+%7C+Next.js+%7C+PostgreSQL+%7C+Neon;23%2B+Projects+%E2%80%A2+100%25+Success+Rate+%E2%80%A2+5.0+Rating;Open+to+Full-Time+Opportunities+%F0%9F%9F%A2)](https://git.io/typing-svg)
 
 </div>
-
 
 <br/>
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-iamrupom.netlify.app-0969DA?style=flat&logo=netlify&logoColor=white)](https://iamrupom.netlify.app)
-[![Email](https://img.shields.io/badge/Email-saidurrahmanrupom%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:saidurrahmanrupom@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/iamrupom)
-[![Profile Views](https://komarev.com/ghpvc/?username=iamrupom&color=0969DA&style=flat&label=Profile+Views)](https://github.com/iamrupom)
+[![Portfolio](https://img.shields.io/badge/Portfolio-iamrupom.netlify.app-000000?style=for-the-badge&logo=netlify&logoColor=00ED64)](https://iamrupom.netlify.app)
+[![Email](https://img.shields.io/badge/Email-saidurrahmanrupom%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:saidurrahmanrupom@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/iamrupom)
+[![Profile Views](https://komarev.com/ghpvc/?username=iamrupom&color=00ED64&style=for-the-badge&label=Profile+Views)](https://github.com/iamrupom)
 
 </div>
 
@@ -29,15 +25,23 @@
 
 ## 👋 About Me
 
-I'm a **Full Stack Web Developer** from Bangladesh, specialized in building scalable, production-ready web applications using the MERN stack. I started in freelance — shipping 23+ projects globally with a perfect track record — and I'm now channeling that momentum into a full-time engineering role.
+I'm a **Full Stack Web Developer** from Bangladesh, specializing in building highly scalable, production-ready applications with modern aesthetics and performance-driven architectures. Starting in the freelance space—shipping 23+ global projects with a perfect track record—I am now focused on leveraging modern stacks to build innovative digital solutions in a full-time engineering role.
 
-```ts
-const rupom = {
-  role     : "Full Stack Web Developer",
-  location : "Bangladesh 🇧🇩",
-  stack    : ["MongoDB", "Express.js", "React.js", "Node.js"],
-  passion  : "Clean code & scalable architecture",
-  status   : "🟢 Open to full-time opportunities",
+```typescript
+interface Developer {
+  role: string;
+  location: string;
+  coreStack: string[];
+  aesthetic: string;
+  status: string;
+}
+
+const rupom: Developer = {
+  role: "Full Stack Web Developer",
+  location: "Bangladesh 🇧🇩",
+  coreStack: ["TypeScript", "Next.js", "Node.js", "PostgreSQL", "Neon"],
+  aesthetic: "Clean code, scalable architecture, and minimalist UI",
+  status: "🟢 Open to full-time opportunities",
 };
 ```
 
