@@ -73,7 +73,7 @@ const rupom: EngineerProfile = {
 
 | 🚀 Production Projects | ⭐ Client Rating | ✅ Delivery Success | 🌐 Global Platforms | 💼 Current Status |
 |:---:|:---:|:---:|:---:|:---:|
-| **`23+ Shipped`** | **`5.0 / 5.0 ★`** | **`100% On-Time`** | **`Upwork · Fiverr`** | **`🟢 Open to Work`** |
+| **`30+ Shipped`** | **`5.0 / 5.0 ★`** | **`100% On-Time`** | **`Upwork · Fiverr`** | **`🟢 Open to Work`** |
 
 </div>
 
