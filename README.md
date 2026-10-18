@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=190&section=header&text=Md.%20Sidur%20Rahaman%20Rupom&fontSize=36&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Next.js%20%7C%20Cloud-Native%20Architectures&descAlignY=60&descSize=16&descColor=00ED64" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2600&pause=1000&color=00ED64&center=true&vCenter=true&width=650&lines=%E2%9A%A1+Architecting+scalable%2C+production-grade+web+applications;TypeScript+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+PostgreSQL+%E2%80%A2+Neon+DB;23%2B+Global+Projects+Shipped+%E2%80%A2+100%25+Job+Success+%E2%80%A2+5.0%E2%98%85+Rating;%F0%9F%9F%A2+Available+for+Full-Time+Software+Engineering+Roles)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2600&pause=1000&color=000000&center=true&vCenter=true&width=650&lines=%E2%9A%A1+Architecting+scalable%2C+production-grade+web+applications;TypeScript+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+PostgreSQL+%E2%80%A2+Neon+DB;30%2B+Global+Projects+Shipped+%E2%80%A2+100%25+Job+Success+%E2%80%A2+5.0%E2%98%85+Rating;%F0%9F%9F%A2+Available+for+Full-Time+Software+Engineering+Roles)](https://git.io/typing-svg)
 
 <br/>
 
@@ -24,7 +24,7 @@
 ### 👨‍💻 About Me
 I am a **Full-Stack Web Developer** based in Bangladesh, focused on engineering resilient, high-performance web applications that pair clean system architecture with minimalist user interfaces.
 
-- 🎯 **Track Record:** Delivered **23+ production projects** globally on Upwork & Fiverr with a **100% completion rate** and **5.0★ rating**.
+- 🎯 **Track Record:** Delivered **30+ production projects** globally on Upwork & Fiverr with a **100% completion rate** and **5.0★ rating**.
 - 🏗️ **Engineering Focus:** Type-safe full-stack ecosystems (`TypeScript`, `Next.js`), serverless SQL (`Neon`, `PostgreSQL`), and responsive motion design.
 - 🚀 **Current Goal:** Transitioning proven freelance delivery speed and ownership into a high-impact, **full-time engineering role**.
 
@@ -57,7 +57,7 @@ const rupom: EngineerProfile = {
     "Neon DB"
   ],
   metrics: {
-    projects: "23+ Shipped",
+    projects: "30+ Shipped",
     rating: "5.0 / 5.0 ★",
     successRate: "100%"
   },
